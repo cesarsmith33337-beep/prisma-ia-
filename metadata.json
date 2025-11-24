@@ -1,0 +1,7 @@
+{
+  "name": "PRISMA IA",
+  "description": "Um assistente com inteligência artificial que captura sua tela de negociação em tempo real, analisa o gráfico usando Gemini e fornece sinais de negociação para plataformas como a Pocket Option.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
